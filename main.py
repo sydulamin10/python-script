@@ -1,0 +1,3 @@
+name = 'Sydul'
+
+print(name)
